@@ -1,2 +1,2 @@
-# SDNE
-Structural Deep Network Embedding  by pytorch
+# SDNE(Graph Embedding)
+pytorch Based, Structural Deep Network Embedding
